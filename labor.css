@@ -1,0 +1,40 @@
+body{
+	background-color: #3399ff;
+	color: white;
+	margin:0;
+}
+
+header{
+	background-color: #003366;
+	color: white;
+	margin:30;
+	padding:15px 15px 0px,15px;
+
+}
+
+header h1{
+margin:30;
+padding:15px 15px 0px,15px;
+display: inline-block;
+}
+
+header h2{
+background-color: #ff3333;
+margin:30;
+padding:15px 15px 0px,15px;
+display: inline-block;
+}
+
+.blue{
+	color:blue;
+}
+
+p {
+	color: brown;
+	padding: 20px 15px 10px 5px ;
+	background-color: #ccf2ff;
+}
+
+p:hover{
+	background-color: #ff0066;
+}
